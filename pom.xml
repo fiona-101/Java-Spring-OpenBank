@@ -69,7 +69,7 @@
         <mockserver.version>5.11.1</mockserver.version>
         <mojo.jaxb2.version>2.5.0</mojo.jaxb2.version>
         <okhttp3.version>4.2.2</okhttp3.version>
-        <postgresql.version>42.2.25</postgresql.version>
+        <postgresql.version>42.3.9</postgresql.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <rest.assured.version>4.0.0</rest.assured.version>
