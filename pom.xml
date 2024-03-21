@@ -50,7 +50,7 @@
         <jaxb.version>2.3.3</jaxb.version>
         <jaxb2.annotate.plugin.test.annox.annotations.version>1.0.0</jaxb2.annotate.plugin.test.annox.annotations.version>
         <jaxb2.basics.annotate.version>1.1.0</jaxb2.basics.annotate.version>
-        <jaxb2.basics.version>1.11.1</jaxb2.basics.version>
+        <jaxb2.basics.version>1.11.1-PUBLISHED-BY-MISTAKE</jaxb2.basics.version>
         <jaxb2.fluent.api.version>3.0</jaxb2.fluent.api.version>
         <jaxb2.maven.plugin.version>2.5.0</jaxb2.maven.plugin.version>
         <jaxws.ri.version>2.3.0</jaxws.ri.version>
