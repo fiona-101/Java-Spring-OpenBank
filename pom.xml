@@ -65,7 +65,7 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <maven.surefire.version>2.22.2</maven.surefire.version>
-        <micrometer.version>1.6.2</micrometer.version>
+        <micrometer.version>1.12.3</micrometer.version>
         <mockserver.version>5.11.1</mockserver.version>
         <mojo.jaxb2.version>2.5.0</mojo.jaxb2.version>
         <okhttp3.version>4.2.2</okhttp3.version>
