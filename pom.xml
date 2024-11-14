@@ -55,7 +55,7 @@
         <jaxb2.maven.plugin.version>2.5.0</jaxb2.maven.plugin.version>
         <jaxws.ri.version>2.3.0</jaxws.ri.version>
         <jdk.version>11</jdk.version>
-        <json.schema.generator.version>4.18.0</json.schema.generator.version>
+        <json.schema.generator.version>4.37.0</json.schema.generator.version>
         <json.schema.validator.version>1.0.58</json.schema.validator.version>
         <kubernetes.client.version>11.0.1</kubernetes.client.version>
         <logcaptor.version>2.5.0</logcaptor.version>
